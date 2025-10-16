@@ -1,0 +1,119 @@
+body {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     background-color: rgb(226, 121, 209);
+     margin: 0;
+     padding: 0% 10%;
+    /*interlineado*/
+     line-height: 1,6;
+}
+
+/*header*/
+header {
+     background-color:rgb(75, 152, 240);
+     color:white;
+     text-align:center;
+}
+
+header h1{
+    
+     text-transform:capitalize;
+     letter-spacing:3px;
+     max-width: 0;
+     padding: 10px;
+
+}
+
+header h2{
+    text-transform: uppercase;
+    letter-spacing:2px;
+    margin-top: 10px;
+    color: rgb(58, 19, 19);
+}
+/* navegacion*/
+nav{
+    background-color: rgb(228, 171, 202);
+    margin: 0 15px;
+    font-weight: bold;
+    text-decoration:normal;
+
+}
+nav{
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+nav a{
+    color: rgb(192, 127, 252);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+nav a:hover{
+    color: rgb(162, 162, 255);
+    text-align: underline;
+}
+ /*seccion principal contenedor*/
+
+ .contenedor{
+    background-color: rgb(71, 44, 97);
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    margin: 25px;
+    padding:20px;
+ }
+
+ /*titulo*/
+ h3{
+    color: rgb(140, 140, 241);
+    /*linea de bajo del texto*/
+    border-bottom: 2px solid rgb(39, 14, 39);
+    padding-bottom: 5px;
+    font-size: 1,3em;
+ }
+
+ p{
+    text-align: justify;
+    margin-bottom: 5px;
+    font-size: lem;
+ }
+
+ /*imagenes*/
+
+ img{
+    display:block;
+    /*alimentar ancho*/
+    width: 200px;
+    margin: 25px;
+    border-radius: 0 0 10 black;
+ }
+
+ /*listas*/
+ ul,
+ ol {
+    margin-left:40px;
+ }
+ li{
+    margin: 5px 0;
+    font-size: 1em;
+ }
+ /* ENLACES*/
+ a{
+    color: rgb(186, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+ }
+ a:hover{
+    color: rgb(180, 212, 240);
+    text-decoration: ;
+ }
+
+ /*tabla*/
+ table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px;
+    background-color: rgb(238, 214, 182);
+ } 
+  th, td{
+    
+  }
