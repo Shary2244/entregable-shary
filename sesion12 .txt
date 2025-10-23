@@ -1,0 +1,46 @@
+//comentario
+// no se hace var 1hola 
+// otra forma de declarar variabler
+let num1
+num1 = "10"
+str="palabra"
+boleano="true"
+falso="false"
+console.log (num1)
+console.log (str)
+console.log (boleano)
+console.log (falso)
+//opeaciones numericas
+let a= "5"
+let b = "2"
+console.log("el resultado de a+b es iguala:",a+b) //suma 
+console.log("el resultado de a-b es iguala:",a-b) //resta
+console.log("el resultado de a/b es iguala:",a/b) // divicion
+console.log("el resultado de a*b es iguala:",a*b) //multiplicacion
+console.log("el resultado de a**b es iguala:",a**b) //potencia
+console.log("el resultado de a%b es iguala:",a%b) //modulo
+
+//operaciones de coomparacion
+console.log("¿ A es mayor que b?",a>b) 
+console.log("¿ A es mayor que b?",a<b) 
+console.log("¿ A es mayor o igual que b?",a>=b) 
+console.log("¿ A es menor o igual que b?",a<=b)
+console.log("¿ A es mayor que b?",a<b)
+console.log("¿ A es igual que b?",a==b) //flexible
+console.log("¿ A es igual que b?",a===b) //estricto
+console.log("¿ A es igual que b?",a!=b) //flexible
+console.log("¿ A es igual que b?",a!==b)//estricto
+
+//operadores de comparticion
+//and(&) or (||)
+esmayor=false
+eslinda=true
+console.log(esmayor && eslinda)
+esbonita=false
+adinerada=true
+console.log(adinerada || esbonita)
+
+//negacion
+
+verdad = false
+console.log(verdad)

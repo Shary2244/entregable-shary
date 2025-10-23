@@ -104,7 +104,7 @@ nav a:hover{
  }
  a:hover{
     color: rgb(180, 212, 240);
-    text-decoration: ;
+    
  }
 
  /*tabla*/
@@ -114,6 +114,6 @@ nav a:hover{
     margin: 20px;
     background-color: rgb(238, 214, 182);
  } 
-  th, td{
+  th,td{
     
   }
